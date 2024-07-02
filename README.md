@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ata Iskecman
+- 👀 I’m interested in Robotics & AI & Embedded Systems
+- 🌱 I’m currently learning Python and VHDL
+- 📫 How to reach me aliata.iskecman@gmail.com
